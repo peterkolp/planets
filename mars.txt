@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 MARS := that's the RED planet, not the blue marble planet earth.
 Yes.
-=======
-MARS := that's the REDisch planet
-Yes.
->>>>>>> master
