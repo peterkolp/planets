@@ -1,1 +1,2 @@
-MARS := that's the RED planet
+MARS := that's the REDisch planet
+Yes.
