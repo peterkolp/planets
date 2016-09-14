@@ -1,3 +1,5 @@
 planets
 
 test text addon
+
+ADDON LONE2
