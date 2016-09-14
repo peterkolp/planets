@@ -1,1 +1,2 @@
 MARS := that's the RED planet, not the blue marble planet earth.
+Yes.
