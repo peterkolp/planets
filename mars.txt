@@ -1,5 +1,1 @@
-planets
-
-test text addon
-
-ADDON LONE2
+MARS := that's the RED planet
